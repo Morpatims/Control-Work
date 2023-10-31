@@ -1,0 +1,15 @@
+D:\GeekBrains\Знакомство с языками программирования\Control Work\bin\Debug\net8.0\Control Work.exe
+D:\GeekBrains\Знакомство с языками программирования\Control Work\bin\Debug\net8.0\Control Work.deps.json
+D:\GeekBrains\Знакомство с языками программирования\Control Work\bin\Debug\net8.0\Control Work.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования\Control Work\bin\Debug\net8.0\Control Work.dll
+D:\GeekBrains\Знакомство с языками программирования\Control Work\bin\Debug\net8.0\Control Work.pdb
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\Control Work.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\Control Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\Control Work.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\Control Work.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\Control Work.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\Control Work.dll
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\refint\Control Work.dll
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\Control Work.pdb
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\Control Work.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования\Control Work\obj\Debug\net8.0\ref\Control Work.dll
